@@ -1,7 +1,5 @@
-######################
-Super Admin Crednetial
-######################
-email: admin@admin.com
+
+email: admin@mail.com
 password: password
 
 database name: stock
